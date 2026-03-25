@@ -25,6 +25,6 @@ Building on the foundation of the Leon template, Kasper introduced more complex 
 ## 📁 Project Structure
 ```text
 ├── css
-│   └── kasper.css     # Main Stylesheet (Variables, Global, Sections)
+│   └── index.css     # Main Stylesheet (Variables, Global, Sections)
 ├── image              # Optimized Assets & Backgrounds
 └── index.html         # Main Structure
